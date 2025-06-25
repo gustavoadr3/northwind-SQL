@@ -159,7 +159,7 @@ Este repositório tem como objetivo apresentar relatórios construídos em SQL. 
 
 ## Contexto
 
-O banco de dados `Northwind` contém os dados de vendas de uma empresa  chamada `Northwind Traders`, que importa e exporta alimentos especiais de todo o mundo. 
+O banco de dados `Northwind`, da Microsoft, contém os dados de vendas de uma empresa  chamada `Northwind Traders`, que importa e exporta alimentos especiais de todo o mundo. 
 
 O banco de dados Northwind é ERP com dados de clientes, pedidos, inventário, compras, fornecedores, remessas, funcionários e contabilidade.
 
@@ -174,12 +174,6 @@ O conjunto de dados Northwind inclui dados de amostra para o seguinte:
 
 O banco de dados `Northwind` inclui 14 tabelas e os relacionamentos entre as tabelas são mostrados no seguinte diagrama de relacionamento de entidades.
 
-![northwind](https://github.com/lvgalvao/Northwind-SQL-Analytics/blob/main/pics/northwind-er-diagram.png?raw=true)
-
-## Objetivo
-
-O objetivo desse 
-
 ## Configuração Inicial
 
 ### Manualmente
@@ -189,9 +183,6 @@ Utilize o arquivo SQL fornecido, `nortwhind.sql`, para popular o seu banco de da
 ### Com Docker e Docker Compose
 
 **Pré-requisito**: Instale o Docker e Docker Compose
-
-* [Começar com Docker](https://www.docker.com/get-started)
-* [Instalar Docker Compose](https://docs.docker.com/compose/install/)
 
 ### Passos para configuração com Docker:
 
